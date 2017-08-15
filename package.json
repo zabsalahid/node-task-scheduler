@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/reyespaolo/node-task-scheduler/issues"
   },
-  "homepage": "https://github.com/reyespaolo/node-task-scheduler#readme"
+  "homepage": "https://github.com/reyespaolo/node-task-scheduler#readme",
+  "dependencies": {
+    "mongoose": "^4.11.7"
+  }
 }
